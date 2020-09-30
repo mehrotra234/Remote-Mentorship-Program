@@ -1,7 +1,7 @@
 # Remote-Mentorship-Program
 TechnoJam presents a **remote-mentorship-program** for those passionate about learning how to code.
 This is the task repository for students to get selected in TechonJam's Remote mentor-ship Program.
-So get ready and complete the below tasks to get selected. 
+So get ready and complete the below tasks to get selected . 
 
 <br/>
 <br/>
